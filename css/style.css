@@ -35,9 +35,6 @@ button{
     flex-wrap: wrap;
 }
 
-.container_square.look{
-    display: flex;
-}
 /* ............difficoltà easy.......... */
 .square{
     width: calc(100% / 10);
@@ -61,3 +58,4 @@ button{
     background-color: rgb(172, 35, 35);
     color:rgb(46, 45, 45);
 }
+
